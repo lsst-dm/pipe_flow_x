@@ -9,3 +9,4 @@
 .sconsign.dblite
 config.log
 ups/*.cfgc
+python/lsst/pipe/flow/version.py
