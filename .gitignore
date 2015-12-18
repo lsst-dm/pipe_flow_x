@@ -5,8 +5,9 @@
 *.pyc
 *_wrap.cc
 *Lib.py
-.sconf_temp/
+.sconf_temp
 .sconsign.dblite
 config.log
 ups/*.cfgc
 python/lsst/pipe/flow/version.py
+.idea/
